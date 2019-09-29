@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="page">
+
+		<view >{{name}}</view>
+</view>
